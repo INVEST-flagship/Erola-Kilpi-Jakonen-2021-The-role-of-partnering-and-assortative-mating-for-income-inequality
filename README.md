@@ -7,7 +7,7 @@ Complete Stata codes used are in five separate .do -files: data, recodes, descri
 
 
 
-# About authors
+## About authors
 
 Jani Erola is a Professor of Sociology at the University of Turku and the director of the INVEST Research Flagship Center. His research interests include educational and socioeconomic inequality, family dynamics, socioeconomic inheritance and social mobility.
 
@@ -15,7 +15,7 @@ Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research 
 
 
 
-# Output examples
+## Output examples
 
 <img width="731" alt="Screenshot 2021-08-16 at 10 33 33" src="https://user-images.githubusercontent.com/75479046/129527515-c82601a0-1909-4cf4-915a-07a8f737bbe0.png">
 
