@@ -11,7 +11,7 @@ Complete Stata codes used are in five separate .do -files: data, recodes, descri
 
 Jani Erola is a Professor of Sociology at the University of Turku and the director of the INVEST Research Flagship Center. His research interests include educational and socioeconomic inequality, family dynamics, socioeconomic inheritance and social mobility.
 
-Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research Fellow at the INVEST Research Flagship Center and Department of Social Research, University of Turku.
+Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research Fellow at the INVEST Research Flagship Center and Department of Social Research, University of Turku. Her research interests focus on social inequalities in education and the labour market, in particular those related to ethnicity, gender and social origin.
 
 
 
