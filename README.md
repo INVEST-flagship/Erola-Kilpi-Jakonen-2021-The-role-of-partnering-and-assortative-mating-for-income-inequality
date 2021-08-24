@@ -27,4 +27,6 @@ Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research 
 
 <img width="730" alt="Screenshot 2021-08-16 at 10 35 05" src="https://user-images.githubusercontent.com/75479046/129527657-f532533e-65f3-4389-878d-75734e2153cc.png">
 
+## DOI
 
+https://zenodo.org/badge/332575086.svg
