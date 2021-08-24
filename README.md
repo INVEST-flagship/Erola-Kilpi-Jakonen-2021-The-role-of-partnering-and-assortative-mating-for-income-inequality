@@ -5,6 +5,8 @@ All analyses in the article were conducted using Stata in the Fiona remote acces
 
 Complete Stata codes used are in five separate .do -files: data, recodes, descriptives, analyses_figures and analyses_table. These files include both codes and specific comments.
 
+The codes for running the decomposition analysis are provided by Diederik Boertien.
+
 
 
 ## About authors
