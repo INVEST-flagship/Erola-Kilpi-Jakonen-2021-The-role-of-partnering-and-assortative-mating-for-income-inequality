@@ -2,13 +2,17 @@
 [![DOI](https://zenodo.org/badge/332575086.svg)](https://zenodo.org/badge/latestdoi/332575086)
 
 
+## Introduction
+
 Repository for the codes used for the analyses of Jani Erola &amp; Elina Kilpi-Jakonen (2021) The role of partnering and assortative mating for income inequality: The case of Finland, 1991–2014
 
 All analyses in the article were conducted using Stata in the Fiona remote access system of Statistics Finland. The data used is register-based Finnish Growth Environment dataset. It is based on a 10% sample of the Finnish population of 1980 that is matched with their children.
 
 Complete Stata codes used are in five separate .do -files: data, recodes, descriptives, analyses_figures and analyses_table. These files include both codes and specific comments.
 
-The codes for running the decomposition analysis are provided by Diederik Boertien.
+Codes for running the decomposition analysis are provided by Diederik Boertien.
+
+The full article can be found at: https://journals.sagepub.com/doi/full/10.1177/00016993211004703
 
 
 
