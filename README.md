@@ -1,8 +1,8 @@
 # Erola-Kilpi-Jakonen-2021-The-role-of-partnering-and-assortative-mating-for-income-inequality
-Repository for the codes used for the analyses of Jani Erola &amp; Elina Kilpi-Jakonen (2021) The role of partnering and assortative mating for income inequality: The case of Finland, 1991–2014
-
 [![DOI](https://zenodo.org/badge/332575086.svg)](https://zenodo.org/badge/latestdoi/332575086)
 
+
+Repository for the codes used for the analyses of Jani Erola &amp; Elina Kilpi-Jakonen (2021) The role of partnering and assortative mating for income inequality: The case of Finland, 1991–2014
 
 All analyses in the article were conducted using Stata in the Fiona remote access system of Statistics Finland. The data used is register-based Finnish Growth Environment dataset. It is based on a 10% sample of the Finnish population of 1980 that is matched with their children.
 
