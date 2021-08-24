@@ -1,6 +1,9 @@
 # Erola-Kilpi-Jakonen-2021-The-role-of-partnering-and-assortative-mating-for-income-inequality
 Repository for the codes used for the analyses of Jani Erola &amp; Elina Kilpi-Jakonen (2021) The role of partnering and assortative mating for income inequality: The case of Finland, 1991–2014
 
+[![DOI](https://zenodo.org/badge/332575086.svg)](https://zenodo.org/badge/latestdoi/332575086)
+
+
 All analyses in the article were conducted using Stata in the Fiona remote access system of Statistics Finland. The data used is register-based Finnish Growth Environment dataset. It is based on a 10% sample of the Finnish population of 1980 that is matched with their children.
 
 Complete Stata codes used are in five separate .do -files: data, recodes, descriptives, analyses_figures and analyses_table. These files include both codes and specific comments.
@@ -27,6 +30,7 @@ Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research 
 
 <img width="730" alt="Screenshot 2021-08-16 at 10 35 05" src="https://user-images.githubusercontent.com/75479046/129527657-f532533e-65f3-4389-878d-75734e2153cc.png">
 
-## DOI
+## License
 
-[![DOI](https://zenodo.org/badge/332575086.svg)](https://zenodo.org/badge/latestdoi/332575086)
+GNU General Public License Version 3
+
