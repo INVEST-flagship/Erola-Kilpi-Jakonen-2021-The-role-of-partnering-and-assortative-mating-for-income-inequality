@@ -36,5 +36,5 @@ Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research 
 
 ## License
 
-GNU General Public License Version 3
+Creative Commons Attribution 4.0 International
 
