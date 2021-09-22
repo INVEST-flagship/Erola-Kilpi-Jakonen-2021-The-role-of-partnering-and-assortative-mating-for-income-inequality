@@ -34,7 +34,7 @@ Elina Kilpi-Jakonen is an Assistant Professor of Sociology and Academy Research 
 
 <img width="730" alt="Screenshot 2021-08-16 at 10 35 05" src="https://user-images.githubusercontent.com/75479046/129527657-f532533e-65f3-4389-878d-75734e2153cc.png">
 
-##Cite as
+## Cite as
 
 Jani Erola & Elina Kilpi-Jakonen (2021). INVEST-flagship/Erola-Kilpi-Jakonen-2021-The-role-of-partnering-and-assortative-mating-for-income-inequality. Zenodo. http://doi.org/10.5281/zenodo.5412563
 
