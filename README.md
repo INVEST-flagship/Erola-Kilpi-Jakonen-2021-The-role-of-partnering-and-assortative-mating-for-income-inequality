@@ -1,4 +1,8 @@
-# Erola-Kilpi-Jakonen-2021-The-role-of-partnering-and-assortative-mating-for-income-inequality
+# Erola & Kilpi-Jakonen (2021) The role of partnering and assortative mating for income inequality
+## A code repository for the statistical analyses
+
+Jani Erola & Elina Kilpi-Jakonen
+
 [![DOI](https://zenodo.org/badge/332575086.svg)](https://zenodo.org/badge/latestdoi/332575086)
 
 
